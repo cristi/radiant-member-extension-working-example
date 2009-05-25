@@ -1,0 +1,8 @@
+--- !ruby/object:Radiant::Config 
+attributes: 
+  id: "11"
+  value: Couldn't log you in!
+  description: ""
+  key: Member.failed_login
+attributes_cache: {}
+

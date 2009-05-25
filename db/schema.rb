@@ -36,6 +36,20 @@ ActiveRecord::Schema.define(:version => 20081203140407) do
     t.integer  "lock_version",                 :default => 0
   end
 
+  create_table "members", :force => true do |t|
+    t.string   "name"
+    t.string   "email"
+    t.string   "company"
+    t.string   "crypted_password"
+    t.string   "salt"
+    t.string   "remember_token",            :limit => 40
+    t.datetime "remember_token_expires_at"
+    t.datetime "emailed_at"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.string   "disabled_password"
+  end
+
   create_table "page_parts", :force => true do |t|
     t.string  "name",      :limit => 100
     t.string  "filter_id", :limit => 25

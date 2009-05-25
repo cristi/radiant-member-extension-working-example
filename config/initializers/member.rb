@@ -1,0 +1,1 @@
+MemberExtensionSettings.defaults[:rest_auth_site_key] = 'asduhnakguy23123bks782g3bkjbs72g3ubkashd8723hbkjz87q2'

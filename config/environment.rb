@@ -10,6 +10,8 @@ require File.join(File.dirname(__FILE__), 'boot')
 require 'radius'
 
 Radiant::Initializer.run do |config|
+  
+  config.gem 'mislav-will_paginate', :version => '~> 2.3.10', :lib => 'will_paginate'
   # Settings in config/environments/* take precedence over those specified here.
   # Application configuration should go into files in config/initializers
   # -- all .rb files in that directory are automatically loaded.
@@ -17,7 +19,7 @@ Radiant::Initializer.run do |config|
 
   # Skip frameworks you're not going to use (only works if using vendor/rails).
   # To use Rails without a database, you must remove the Active Record framework
-  config.frameworks -= [ :action_mailer ]
+  # config.frameworks -= [ :action_mailer ]
   
   # Only load the plugins named here, in the order given. By default, all plugins 
   # in vendor/plugins are loaded in alphabetical order.

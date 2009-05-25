@@ -1,0 +1,8 @@
+--- !ruby/object:Radiant::Config 
+attributes: 
+  id: "9"
+  value: /articles
+  description: ""
+  key: Member.home_path
+attributes_cache: {}
+

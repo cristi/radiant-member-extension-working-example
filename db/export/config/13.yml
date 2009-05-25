@@ -1,0 +1,8 @@
+--- !ruby/object:Radiant::Config 
+attributes: 
+  id: "13"
+  value: You have been logged out!
+  description: ""
+  key: Member.succesful_logout
+attributes_cache: {}
+
