@@ -1,0 +1,15 @@
+--- !ruby/object:Layout 
+attributes: 
+  name: Stylesheet
+  content_type: text/css
+  updated_at: 2009-05-25 13:08:12
+  updated_by_id: 
+  lock_version: "0"
+  id: "2"
+  created_by_id: "1"
+  content: |
+    <r:content />
+
+  created_at: 2009-05-25 13:08:12
+attributes_cache: {}
+

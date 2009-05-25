@@ -1,0 +1,21 @@
+--- !ruby/object:ArchiveMonthIndexPage 
+attributes: 
+  slug: monthly-archives
+  class_name: ArchiveMonthIndexPage
+  virtual: t
+  updated_at: 2009-05-25 13:08:12
+  title: "%B %Y Archives"
+  updated_by_id: 
+  breadcrumb: Monthly Archives
+  lock_version: "0"
+  id: "10"
+  created_by_id: "1"
+  description: 
+  status_id: "100"
+  published_at: 2009-05-25 16:08:12
+  parent_id: "4"
+  layout_id: 
+  created_at: 2009-05-25 13:08:12
+  keywords: 
+attributes_cache: {}
+

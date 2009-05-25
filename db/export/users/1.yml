@@ -1,0 +1,20 @@
+--- !ruby/object:User 
+attributes: 
+  name: Administrator
+  salt: 49ce9ef0e3cf621c08b261b3636f17e825f94912
+  updated_at: 2009-05-25 13:08:10
+  updated_by_id: 
+  admin: t
+  lock_version: "0"
+  id: "1"
+  created_by_id: 
+  notes: 
+  login: admin
+  password: bf303f91cd8d6a27484ac3425bc2f1e8ffc07c7c
+  session_token: 
+  email: 
+  created_at: 2009-05-25 13:08:10
+  developer: f
+attributes_cache: {}
+
+confirm_password: true
