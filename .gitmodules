@@ -1,0 +1,3 @@
+[submodule "vendor/extensions/super_export"]
+	path = vendor/extensions/super_export
+	url = git://github.com/Aissac/radiant-super-export-extension.git
