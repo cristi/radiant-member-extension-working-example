@@ -2,6 +2,14 @@
 attributes: 
   id: "4"
   value: draft
+  description: |
+    Defines the publishing status of new pages.  This can any one of:
+    
+    * draft
+    * published
+    * reviewed
+    * hidden
+
   key: defaults.page.status
 attributes_cache: {}
 

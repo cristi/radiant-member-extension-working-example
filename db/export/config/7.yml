@@ -1,0 +1,8 @@
+--- !ruby/object:Radiant::Config 
+attributes: 
+  id: "7"
+  value: admin
+  description: List of user roles that may see the settings tabs.
+  key: roles.settings
+attributes_cache: {}
+

@@ -2,6 +2,11 @@
 attributes: 
   id: "3"
   value: body, extended
+  description: |
+    Defines the page parts that a new page is created with.  It should be a list, separated by a comma and a space.  For example:
+    
+    bq. @body, extended, sidebar@
+
   key: defaults.page.parts
 attributes_cache: {}
 

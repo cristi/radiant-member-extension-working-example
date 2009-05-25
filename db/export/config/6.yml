@@ -2,6 +2,7 @@
 attributes: 
   id: "6"
   value: "1209600"
+  description: 
   key: session_timeout
 attributes_cache: {}
 

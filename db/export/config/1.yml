@@ -2,6 +2,7 @@
 attributes: 
   id: "1"
   value: Radiant CMS
+  description: Title text displayed at the top of all administration screens.
   key: admin.title
 attributes_cache: {}
 

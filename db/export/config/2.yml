@@ -2,6 +2,7 @@
 attributes: 
   id: "2"
   value: Publishing for Small Teams
+  description: The tagline displayed underneath the main administration title
   key: admin.subtitle
 attributes_cache: {}
 
