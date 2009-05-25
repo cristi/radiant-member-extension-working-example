@@ -1,0 +1,21 @@
+--- !ruby/object:Page 
+attributes: 
+  slug: members
+  class_name: ""
+  virtual: f
+  updated_at: 2009-05-25 13:42:25
+  title: Members
+  updated_by_id: "1"
+  breadcrumb: Members
+  lock_version: "1"
+  id: "11"
+  created_by_id: "1"
+  description: ""
+  status_id: "100"
+  published_at: 2009-05-25 16:41:19
+  parent_id: "1"
+  layout_id: 
+  created_at: 2009-05-25 13:41:19
+  keywords: ""
+attributes_cache: {}
+

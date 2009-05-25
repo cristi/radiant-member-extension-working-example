@@ -1,0 +1,33 @@
+--- !ruby/object:PagePart 
+attributes: 
+  name: body
+  filter_id: ""
+  page_id: "11"
+  id: "17"
+  content: |-
+    <div id="flash" style="display:none"></div>
+    <script type="text/javascript">
+      document.observe("dom:loaded", function () {
+        flash.show('flash', 'error')
+      })
+    </script>
+    
+    <div id="flash" style="display:none"></div>
+    <script type="text/javascript">
+      document.observe("dom:loaded", function () {
+        flash.show('flash', 'notice')
+      })
+    </script>
+    
+    <h2>Log in</h2>
+    <form action="<r:member:sessions />" method="post">
+      <p><label>Email</label><br />
+      <input id="email" name="email" type="text" /></p>
+      <p><label>Password</label><br/>
+      <input id="password" name="password" type="password" /></p>
+      <p><label for="remember_me">Remember me</label><br />
+      <input id="remember_me" name="remember_me" type="checkbox" value="1" /></p>
+      <p><input name="commit" type="submit" value="Log in" /></p>
+    </form>
+attributes_cache: {}
+

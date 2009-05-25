@@ -1,7 +1,7 @@
 --- !ruby/object:Radiant::Config 
 attributes: 
   id: "14"
-  value: Member must be logged in!
+  value: You need to be logged in to see this page!
   description: ""
   key: Member.need_login
 attributes_cache: {}
