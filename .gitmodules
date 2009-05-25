@@ -4,3 +4,9 @@
 [submodule "vendor/extensions/settings"]
 	path = vendor/extensions/settings
 	url = git://github.com/Squeegy/radiant-settings.git
+[submodule "vendor/extensions/member"]
+	path = vendor/extensions/member
+	url = git://github.com/Aissac/radiant-member-extension.git
+[submodule "vendor/plugins/auto_complete"]
+	path = vendor/plugins/auto_complete
+	url = git://github.com/rails/auto_complete.git
