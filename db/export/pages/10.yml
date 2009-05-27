@@ -3,7 +3,7 @@ attributes:
   slug: monthly-archives
   class_name: ArchiveMonthIndexPage
   virtual: t
-  updated_at: 2009-05-25 13:08:12
+  updated_at: 2009-05-27 18:09:57
   title: "%B %Y Archives"
   updated_by_id: 
   breadcrumb: Monthly Archives
